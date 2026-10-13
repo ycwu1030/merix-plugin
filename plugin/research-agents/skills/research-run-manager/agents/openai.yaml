@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Run Manager"
+  short_description: "Submit and monitor research Runs safely"
+  default_prompt: "Use $research-run-manager to submit or monitor the selected research Run and keep its Codex heartbeat monitor current."

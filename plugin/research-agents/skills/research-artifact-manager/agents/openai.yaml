@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Artifact Manager"
+  short_description: "Manage research artifacts and retained provenance"
+  default_prompt: "Use $research-artifact-manager to manage the selected research artifact and its retained records."

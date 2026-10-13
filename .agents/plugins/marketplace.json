@@ -1,0 +1,20 @@
+{
+  "name": "merix",
+  "interface": {
+    "displayName": "MERIX"
+  },
+  "plugins": [
+    {
+      "name": "merix-research",
+      "source": {
+        "source": "local",
+        "path": "./plugin/research-agents"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

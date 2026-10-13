@@ -1,0 +1,22 @@
+{
+  "name": "merix-research",
+  "version": "0.1.0",
+  "description": "Initialize and govern reproducible research projects.",
+  "author": {
+    "name": "Yongcheng Wu, MERIX Group"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "MERIX Research Plugin",
+    "shortDescription": "Initialize research projects safely.",
+    "longDescription": "Provides Codex Skills and deterministic tools for initializing and governing reproducible research projects.",
+    "developerName": "Yongcheng Wu, MERIX Group",
+    "category": "Productivity",
+    "capabilities": [
+      "Workflow",
+      "Write"
+    ],
+    "defaultPrompt": "Initialize a research project using the MERIX baseline."
+  },
+  "hooks": "./hooks/hooks.json"
+}
