@@ -2,8 +2,7 @@
 
 ## 0.1.0
 
-First release candidate of MERIX Research Plugin. Publication is pending
-candidate verification and maintainer approval.
+Initial public release of MERIX Research Plugin.
 
 ### Included
 
@@ -25,4 +24,4 @@ candidate verification and maintainer approval.
   disable duplicates before enabling the new formatter Hook.
 - Taskboard is optional; the local workflow is standalone.
 - Additional platforms, writer clients and automatic scheduling are outside
-  this initial compatibility claim. See release evidence for tested versions.
+  this initial compatibility claim. See the README for tested versions.

@@ -11,7 +11,7 @@ execution, verification and human acceptance.
 - Marketplace: `merix`
 - Version: `0.1.0`
 - License: MIT
-- Copyright: Yongcheng Wu, MERIX Group
+- Copyright: Yongcheng Wu, Meridex Group
 
 ## Included Skills
 
@@ -41,7 +41,7 @@ remain the researcher's responsibility.
 
 ## Install from GitHub in Codex Desktop
 
-After the release is published:
+Use the repository Marketplace:
 
 1. Open Plugin/Marketplace management in Codex Desktop.
 2. Add the GitHub Marketplace `ycwu1030/merix-plugin`.
@@ -107,5 +107,12 @@ The interface is evolving. The scripts do not establish scientific validity,
 invent evidence, infer acceptance or automatically upgrade research projects.
 Hook repair covers supported normalization; diagnostics can require manual
 repair. Compatibility applies only to recorded validated environments.
-GitHub/Desktop installation must be checked against the published candidate
-before that route is reported as verified.
+
+Validated environment: macOS 15.7.9 on arm64, Codex Desktop
+`0.162.0-alpha.17.2` and Python `3.13.5`. GitHub Marketplace installation and
+trusted native Markdown Hook execution were checked in this environment.
+Direct and wrapped native edits follow the same project-scope rules: start the
+session inside an initialized research project and edit files within that
+project. See the [Hook guide](references/markdown-format-usage.md) for supported
+paths, exclusions and diagnostic behavior. Other client versions, platforms
+and external writers require their own validation.
